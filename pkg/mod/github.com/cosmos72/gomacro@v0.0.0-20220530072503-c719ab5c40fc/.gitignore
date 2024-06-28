@@ -1,0 +1,15 @@
+/gomacro
+/gomacro.debug
+a.out
+*~
+*.o
+*.exe
+*.test
+*.dump
+_gen_*.s
+/_example/example
+/_example/interrupt/interrupt
+/jit/**/test
+/jit/**/_template/_template
+/jit/arm64/_template/_bitwise_immediate/_bitwise_immediate
+/jit/arm64/_template/_go/_go
